@@ -1086,7 +1086,8 @@ else
 	echo "Number is NOT palindrome"
 fi
 ```
-## OUTPUT 
+Name : Vishal.T
+Reg num :212223100060
 
 
 # RESULT:
